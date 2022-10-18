@@ -1,6 +1,6 @@
 Personal website repository. You can visit the site at:
 
-https://joeypoyiwu.github.io
+https://joeywu.info
 
 Using the theme Paradigm Shift by HTML5 UP.
 
